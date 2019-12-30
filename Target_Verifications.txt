@@ -1,0 +1,40 @@
+net,test case,ground truth,your output,your runtime,your point
+fc1,    img0_0.05872.txt,   not verified
+fc1,    img0_0.06000.txt,   verified
+fc1,    img1_0.07500.txt,   verified
+
+fc2,    img0_0.05500.txt,   verified
+fc2,    img0_0.05697.txt,   not verified
+fc2,    img1_0.04100.txt,   not verified
+
+fc3,    img0_0.00520.txt,   verified
+fc3,    img0_0.01305.txt,   not verified
+fc3,    img1_0.00900.txt,   verified
+
+fc4,    img0_0.12300.txt,   verified
+fc4,    img1_0.12000.txt,   verified
+fc4,    img1_0.13746.txt,   verified
+
+fc5,    img0_0.08000.txt,   verified
+fc5,    img1_0.07200.txt,   verified
+fc5,    img3_0.05609.txt,   verified
+
+conv1,  img0_0.00200.txt,   not verified
+conv1,  img1_0.02520.txt,   verified
+conv1,  img6_0.03833.txt,   not verified
+
+conv2,  img0_0.10000.txt,   verified
+conv2,  img1_0.08200.txt,   verified
+conv2,  img3_0.14256.txt,   verified
+
+conv3,  img0_0.07700.txt,   verified
+conv3,  img1_0.09100.txt,   verified
+conv3,  img8_0.07570.txt,   verified
+
+conv4,  img0_0.01240.txt,   verified
+conv4,  img1_0.12300.txt,   verified
+conv4,  img6_0.19824.txt,   not verified
+
+conv5,  img0_0.18500.txt,   verified
+conv5,  img1_0.21000.txt,   verified
+conv5,  img8_0.18041.txt,   verified
